@@ -1,4 +1,4 @@
-WkID	Weakness, Description
+WkID,Weakness,Description
 Wk1,"Salt","Salt thrown at monster or placed around victim"
 Wk2,"Holy Water","Water blessed by Church"
 Wk3,"Amulet","Item that wards off monsters"
