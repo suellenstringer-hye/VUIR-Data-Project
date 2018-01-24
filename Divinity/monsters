@@ -1,0 +1,16 @@
+  MonsterID	 Title	 Type	 Description
+6	Ghost	Supernatural	Ethereal projection of a human
+7	Poltergeist	Supernatural	Similar to ghosts, but torments humans
+8	Demon	Supernatural	Unspeakably evil, possesses humans and may make them perform horrific acts
+9	Genie/Jinn	Supernatural	From Islam, could be good or evil. Evil Jinns lead people into temptation
+10	Siren	Supernatural	Song leads sailors off course causing them to wreck their ship
+11	Werewolf	Animal	Every full moon, a human transforms into a werewolf that hunts and kills prey
+12	Sea Monster	Animal	Roams bodies of waters looking for victims
+13	Dragon	Animal	Breathes deadly firing on victims
+14	Big Foot	Animal	Stalks in forests preying on wild animals and sometimes humans
+15	Minotaur	Animal	Eats young maidens
+16	Vampire	Humanoid	Drains and drinks blood from victims
+17	Zombie	Humanoid	Eats human flesh and bites transforms victims into zombies
+18	Witch	Humanoid	Curses victims and communicates with demons
+19	Werewolf	Humanoid	Every full moon, a human transforms into a werewolf that hunts and kills prey
+20	Minotaur	Humanoid	Eats young maidens
