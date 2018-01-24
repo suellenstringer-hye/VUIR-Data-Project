@@ -1,16 +1,30 @@
-  MonsterID	 Title	 Type	 Description
-6	Ghost	Supernatural	Ethereal projection of a human
-7	Poltergeist	Supernatural	Similar to ghosts, but torments humans
-8	Demon	Supernatural	Unspeakably evil, possesses humans and may make them perform horrific acts
-9	Genie/Jinn	Supernatural	From Islam, could be good or evil. Evil Jinns lead people into temptation
-10	Siren	Supernatural	Song leads sailors off course causing them to wreck their ship
-11	Werewolf	Animal	Every full moon, a human transforms into a werewolf that hunts and kills prey
-12	Sea Monster	Animal	Roams bodies of waters looking for victims
-13	Dragon	Animal	Breathes deadly firing on victims
-14	Big Foot	Animal	Stalks in forests preying on wild animals and sometimes humans
-15	Minotaur	Animal	Eats young maidens
-16	Vampire	Humanoid	Drains and drinks blood from victims
-17	Zombie	Humanoid	Eats human flesh and bites transforms victims into zombies
-18	Witch	Humanoid	Curses victims and communicates with demons
-19	Werewolf	Humanoid	Every full moon, a human transforms into a werewolf that hunts and kills prey
-20	Minotaur	Humanoid	Eats young maidens
+AutID,Author
+Aut1,"Anderson, Herbert"
+Aut2,"Anderson, Victor"
+Aut3,"Andrews, Dale P."
+Aut4,"Armour, Ellen T."
+Aut5,"Attridge, Harold W."
+Aut6,"Barnes, Sandra L."
+Aut7,"Best, Candace"
+Aut8,"Bevans, Stephen B."
+Aut9,"Braxton, Brad Ronnell"
+Aut10,"Buckley, James J."
+Aut11,"Burton, E. Thomoseo"
+Aut12,"Bynum, Mia Smith"
+Aut13,"Byrd, James P."
+Aut14,"Cahalan, Kathleen A."
+Aut15,"Cumming, Joseph"
+Aut16,"DeHart, Paul J"
+Aut17,"Dorsey, Joseph C."
+Aut18,"Eppehimer, Trevor"
+Aut19,"Floyd-Thomas, Stacey M"
+Aut20,"Frank, Thomas Edward"
+Aut21,"Geller, Jay"
+Aut22,"Greider, Kathleen J."
+Aut23,"Hamman, Jaco J."
+Aut24,"Hess, Carol Lakey"
+Aut25,"Jensen, Robin M."
+Aut26,"Jensen, Tim"
+Aut27,"Knight, Douglas A."
+Aut28,"Krahn, Anne Marie"
+Aut29,"LeVine, Mark"
