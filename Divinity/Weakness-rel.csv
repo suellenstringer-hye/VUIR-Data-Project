@@ -11,3 +11,20 @@ Minotaur	Theseus
 Vampire	Wooden Stake
 Zombie	Head Shot
 Witch	Paranoid Villagers
+
+
+MnstID,Monster,Description
+Mnst1,"Ghost","Ethereal projection of a human"
+Mnst2,"Poltergeist","Similar to ghosts, but torments humans"
+Mnst3,"Demon","Unspeakably evil, possesses humans and may make them perform horrific acts"
+Mnst4,"Genie/Jin","From Islam, could be good or evil. Evil Jinns lead people into temptation"
+Mnst5,"Siren","Song leads sailors off course causing them to wreck their ship"
+Mnst6,"Werewolf","Every full moon, a human transforms into a werewolf that hunts and kills prey"
+Mnst7,"Sea Monster","Roams bodies of waters looking for victims"
+Mnst8,"Dragon","Breathes deadly firing on victims"
+Mnst9,"Big Foot","Stalks in forests preying on wild animals and sometimes humans"
+Mnst10,"Minotaur","Eats young maidens"
+Mnst11,"Vampire","Drains and drinks blood from victims"
+Mnst12,"Zombie","Eats human flesh and bites transforms victims into zombies"
+Mnst13,"Witch","Curses victims and communicates with demons"
+Mnst14,"Werewolf","Every full moon, a human transforms into a werewolf that hunts and kills prey"
